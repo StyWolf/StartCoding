@@ -1,8 +1,8 @@
 ###学习进度--Python部分
 
-- [ ]Python基础语法部分
-- [ ]Python函数
-- [ ]Python类
+- [ ] Python基础语法部分
+- [ ] Python函数
+- [ ] Python类
 - [ ] Python对象
 - [ ] Python常用模块
 
