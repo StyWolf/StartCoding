@@ -1,4 +1,3 @@
 StartCoding
 ===========
-
-Do one thing at a time and do well.
+###学习编程一些记录以及一些常用的配置
