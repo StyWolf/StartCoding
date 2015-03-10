@@ -11,5 +11,6 @@ StartCoding
 
 
 ######开始学习了
+######先搭建一个blog再说
 							——————————2015-3-10
 ###博客：https://senlief.com
