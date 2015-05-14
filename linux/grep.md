@@ -1,6 +1,6 @@
 ###Shell文本处理——grep  
 > grep 是一种强大的文本搜索工具，它基于正则表达式匹配并打印出匹配的行。也就是说grep就是linux下强大的行过滤工具。  
-
+<!--more-->
 ####TOC  
 * grep 语法
 * grep [options]主要参数
