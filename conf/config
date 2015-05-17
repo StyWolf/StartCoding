@@ -1,0 +1,14 @@
+Host "GitHub_Blog"
+HostName "github.com"  
+User "stywolf@gmail.com"
+IdentityFile "~/.ssh/senlief_rsa" 
+
+Host "GitCafe_Blog"
+HostName "gitcafe.com"
+User "senlief@163.com"
+IdentityFile "~/.ssh/senlief_rsa"
+
+Host "Hostus"
+HostName "104.128.228.182"
+User "zhangjian"
+IdentityFile "~/.ssh/senlief"
