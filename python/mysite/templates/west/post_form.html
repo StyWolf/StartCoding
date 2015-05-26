@@ -1,0 +1,7 @@
+<form action="/west/post" methon="post">
+	{% csrf_token %}
+	<input type="text" name="staff">
+	<input type="submit" value="Submit">
+</form>
+
+<p>{{ rlt }}</p>
